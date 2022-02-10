@@ -1,0 +1,7 @@
+namespace MazeGame
+{
+    class Maze
+    {
+        
+    }
+}
